@@ -1,0 +1,100 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url("grid.png");
+	background-repeat: no-repeat;
+	background-position: 60% 50%;
+	background-size: 850px;
+}
+
+.container {
+  width: 700px;
+  height: 640px;
+  border: 1px solid;
+  margin: auto;
+  background-color: #FFF36D;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+header {
+  padding: 1em;
+  background-color: #FFF36D;
+}
+
+.h1 {
+  color: #000;
+  font-family: 'Bebas Neue', san-serif;
+  font-size: 20px;
+  font-weight: lighter;
+  letter-spacing: 1px;
+}
+
+.h2 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 12px;
+  float: right;
+  letter-spacing: 1px;
+}
+
+.h3 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 12px;
+  float: left;
+  letter-spacing: 1px;
+}
+
+.h4 {
+  color: #000;
+  font-family: Roboto;
+  font-size: 12px;
+  float: right;
+  letter-spacing: 1px;
+}
+
+nav {
+	float: left;
+  	padding: 1em;
+  	width: 180px;
+  	height: 536px;
+  	background-color: #fffcf5;
+	border-right: 1px dashed #FC4C02;
+}
+
+hr{
+        height: 1px;
+        background-color: #FC4C02;
+        border: none;
+}
+
+.h1-1 {
+	color: #000000;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 12px;
+	letter-spacing: -1px;
+}
+
+.h0 {
+  color: #000000;
+  font-family: 'Jura', san-serif;
+  font-size: 16px;
+  font-weight: normal;
+  letter-spacing: -1px;
+}
+
+.desc {
+  	color: #000000;
+  	font-family: 'Roboto Mono', san-serif;
+  	font-size: 10px;
+	letter-spacing: -1px;
+}
+
+article {
+  margin-left: 180px;
+  background-color: #fffcf5;
+  padding: 1em;
+  overflow: hidden;
+}
