@@ -96,5 +96,5 @@ article {
   margin-left: 180px;
   background-color: #fffcf5;
   padding: 1em;
-  overflow: scroll;
+  overflow: auto;
 }
