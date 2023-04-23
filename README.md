@@ -1,2 +1,2 @@
 # syazski.github.io
-mic test 1,2,3
+mic test 1 2 3
