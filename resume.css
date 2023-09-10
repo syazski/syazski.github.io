@@ -61,6 +61,7 @@ nav {
   	height: 540px;
   	background-color: #fffcf5;
 	border-right: 1px dashed #FC4C02;
+	overflow: scroll;
 }
 
 hr{
